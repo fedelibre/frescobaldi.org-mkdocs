@@ -1,0 +1,18 @@
+site_name: Frescobaldi
+site_description: 'LilyPond sheet music text editor'
+
+theme:
+  name: 'material'
+  logo: 'images/frescobaldi.svg'
+  favicon: 'images/frescobaldi.ico'
+  palette:
+    primary: 'blue grey'
+    accent: 'purple'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/frescobaldi'
+
+var:
+  key_engrave: 'Ctrl+M'
