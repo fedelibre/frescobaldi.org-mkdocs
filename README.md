@@ -15,6 +15,14 @@ When your work is done, you can build the static website:
 
     mkdocs build
 
+Mkdocs has built-in support to deploy the static site to Github Pages:
+
+    mkdocs gh-deploy
+
+The static site of this repository is currently deployed at
+<https://fedelibre.github.io/frescobaldi.org-mkdocs/>.
+
+
 ## TODO
 
 This is a work in progress.
